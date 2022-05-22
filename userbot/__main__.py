@@ -43,7 +43,7 @@ Lioncheck = LionCheck()
 # Why not come here and chat??
 async def hehn():
     try:
-        await lionub(JoinChannelRequest("@LionXUpdates"))
+        await lionub(JoinChannelRequest("@skyverse01"))
     except BaseException:
         pass
 
@@ -60,7 +60,7 @@ async def startup_process():
     print("Yay your Lion-Z Userbot is officially working.!!!")
     print(
         f"Congratulation, now type {cmdhr}alive to see message if lionub is live\
-        \nIf you need assistance, head to https://t.me/LionXSupport"
+        \nIf you need assistance, head to https://t.me/skyverse01"
     )
     print("➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖")
     await verifyLoggerGroup()
